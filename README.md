@@ -11,7 +11,7 @@
 </details>
 
 <details>
-<summary><b>**To run the game**</b>: </summary>
+<summary><b>To run the game</b>: </summary>
 The program get tree arguments, and the fourth argument is optional.
 
 * The board size, can be 4/8/12/16.
