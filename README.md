@@ -28,4 +28,4 @@ The program get tree arguments, and the fourth argument is optional.
 </details>
 
 ![](images/board_8.png)!
-[Untitled video ‐ Made with Clipchamp](https://user-images.githubusercontent.com/67865617/152769244-e6f0eca5-6d03-462a-b2e7-3d78aa584991.gif)
+https://user-images.githubusercontent.com/67865617/152769244-e6f0eca5-6d03-462a-b2e7-3d78aa584991.gif
