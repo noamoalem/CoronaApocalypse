@@ -27,5 +27,5 @@ The program get tree arguments, and the fourth argument is optional.
  	- 't' the target (vaccine)
 </details>
 
-![](images/board_8.png)
+[]: # HIDE PIC ![](images/board_8.png)
 ![Untitled video ‐ Made with Clipchamp](https://user-images.githubusercontent.com/67865617/152769802-782a396f-f128-445c-a5e1-1f680411057e.gif)
