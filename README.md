@@ -1,7 +1,8 @@
 ## Corona Apocalypse ![](images/corona.png) ![](images/mask.png) ![](images/syringe.png)
 
 
-**Game program based on OO design pattern that feature a maze andsolve it by Artificial Intelligence method as - Expectimax and Monte Carlo tree search.**
+**Game program based on OO design pattern that feature a maze and
+solve it by Artificial Intelligence method as - Expectimax and Monte Carlo tree search.**
 
 <details>
 <summary><b> The agents</b>: </summary>
@@ -26,4 +27,5 @@ The program get tree arguments, and the fourth argument is optional.
  	- 't' the target (vaccine)
 </details>
 
-![](images/board_8.png)
+![](images/board_8.png)!
+[Untitled video ‐ Made with Clipchamp](https://user-images.githubusercontent.com/67865617/152769244-e6f0eca5-6d03-462a-b2e7-3d78aa584991.gif)
